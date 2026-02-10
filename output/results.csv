@@ -1,0 +1,10 @@
+map,algorithm,path_len,nodes_expanded,frontier_or_iters,runtime_ms
+map1_easy,DFS,7,9,6,0.051899995014537126
+map1_easy,A*,3,4,5,0.0444999968749471
+map1_easy,IDA*,3,3,1,0.020900006347801536
+map2_obstacles,DFS,12,12,4,0.03190000279573724
+map2_obstacles,A*,10,11,3,0.04400000034365803
+map2_obstacles,IDA*,10,26,4,0.08410000009462237
+map3_more_dirt,DFS,33,57,19,0.1661000060266815
+map3_more_dirt,A*,10,48,29,0.2117000040016137
+map3_more_dirt,IDA*,10,104,6,0.6410999994841404
